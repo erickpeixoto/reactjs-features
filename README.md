@@ -147,3 +147,5 @@ You should have **all of the following qualities**:
   - Going to meetups or events
   - Contributing to open source projects
   - Networking within the company you work in
+
+  
