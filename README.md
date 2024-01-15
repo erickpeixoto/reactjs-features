@@ -8,6 +8,8 @@ You should know and be comfortable with **all of the following:**
 
 - **JSX**
   - [How to write JSX](https://react.dev/learn/writing-markup-with-jsx)
+    - [Showcase-branch](https://github.com/erickpeixoto/reactjs-features/pull/new/tsx-writing)
+    - [Video-Presentation](https://komododecks.com/recordings/QEVgTXoYB9ilyz1EWO9y)
   - [How to conditionally render elements](https://react.dev/learn/conditional-rendering)
   - [How to loop over items](https://react.dev/learn/rendering-lists)
   - [Adding Javascript in JSX](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
