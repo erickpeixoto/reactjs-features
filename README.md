@@ -11,6 +11,9 @@ You should know and be comfortable with **all of the following:**
     - [Showcase-branch](https://github.com/erickpeixoto/reactjs-features/pull/new/tsx-writing)
     - [Video-Presentation](https://komododecks.com/recordings/QEVgTXoYB9ilyz1EWO9y)
   - [How to conditionally render elements](https://react.dev/learn/conditional-rendering)
+    - [Showcase-branch](https://github.com/erickpeixoto/reactjs-features/pull/new/conditional-render)
+    - [Video-Presentation](https://komododecks.com/recordings/xFwxdR6W8OI69O83LMdA)
+    
   - [How to loop over items](https://react.dev/learn/rendering-lists)
   - [Adding Javascript in JSX](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
 - **Components**
