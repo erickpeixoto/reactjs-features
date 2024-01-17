@@ -22,3 +22,13 @@ export const Primary: Story = {
       description: 'This is a card',
     },
   };
+
+  export const Conditional: Story = {
+    args: {
+      image: '',
+      title: 'Card',
+      description: 'This is a card',
+      largeDescription: 'It seems to be a large description',
+    },
+  };
+  
