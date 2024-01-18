@@ -3,7 +3,7 @@ import { Meta, StoryObj } from "@storybook/react";
 import { Card } from "../app/components/Card";
 
 const meta = {
-    title: 'JSX/How to write JSX',
+    title: 'TSX/How to write TSX',
     component: Card,
     parameters: {
         layout: "centered",
