@@ -15,6 +15,8 @@ You should know and be comfortable with **all of the following:**
     - [Video-Presentation](https://komododecks.com/recordings/xFwxdR6W8OI69O83LMdA)
     
   - [How to loop over items](https://react.dev/learn/rendering-lists)
+    - [Showcase-branch](https://github.com/erickpeixoto/reactjs-features/tree/loop-over-items)
+    - [Video-Presentation](https://komododecks.com/recordings/ETND8OGJq6Hi6ho2oelq)
   - [Adding Javascript in JSX](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
 - **Components**
   - [How to create components](https://react.dev/learn/your-first-component)
